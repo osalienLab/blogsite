@@ -5,15 +5,9 @@
 
 > A Blog&#39;s Site
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
-👤 **Pika**
+👤 **Jacob**
 
 * Github: [@osalien](https://github.com/osalien)
 
@@ -22,4 +16,4 @@ npm install
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_❤️ by osalien_
